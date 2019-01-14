@@ -1,5 +1,4 @@
-# Learning
-# Content
+## Learning Content
 
  - Avro examples
  - Kafka Avro Producer & Consumer
